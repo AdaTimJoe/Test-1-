@@ -1,1 +1,15 @@
+title: The New Life
+description: Una pagina de juegos 
+baseurl: "_config.yml" 
+url: "https://TheNewLife.github.io"
+theme: minima
 
+# Opcionales:
+author: Ada Tim Joe
+email: elloren096@gmail.com
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
